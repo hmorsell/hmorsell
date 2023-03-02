@@ -1,13 +1,13 @@
 # Hannah Morsell
 
-##Major
+## Major
 Visual Communication Design at Eastern Washington University
 
-###Skills
+### Skills
 *Web Design
 *Graphic Design
 *Illustration
 *Photography
 
-##Superpower
+## Superpower
 I buy plants I don't need
